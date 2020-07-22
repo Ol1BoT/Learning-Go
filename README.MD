@@ -9,3 +9,8 @@
 ## Up Next:
 - DB
 - gRPC / Proto Buffers
+
+## Resources I like:
+### DB
+- http://go-database-sql.org/
+- https://bobby-tables.com/go
