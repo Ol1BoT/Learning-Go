@@ -6,6 +6,7 @@
 - Types (Structs, Arrays, Slice, String, ints)
 - JSON (Marshal)
 - Database (Select Statements)
+- Functions (Yes Functions are also types)
 
 ## Up Next:
 - gRPC / Proto Buffers
@@ -14,3 +15,13 @@
 ### DB
 - http://go-database-sql.org/
 - https://bobby-tables.com/go
+
+
+## Notes
+
+"A value can be of more than one type" repeat 10x
+
+A Writer is an interface for all types that have a Write method
+A Reader is an interface for all types that have a Read method
+
+A interface is a type. A value can have more than one type.
