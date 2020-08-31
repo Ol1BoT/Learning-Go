@@ -13,11 +13,14 @@ type base struct {
 	User string
 }
 
+//Strings in the Yaml don't have to be in quotes
+
 type config struct {
 	Base     base
 	Addition struct {
 		Firstname string
 		Lastname  string
+		Likes     []string
 	}
 }
 
@@ -27,6 +30,9 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
+
+	//slice of bytes cast into a string
+	fmt.Println(string(file))
 
 	var config config
 
