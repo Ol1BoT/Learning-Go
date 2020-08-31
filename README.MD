@@ -23,6 +23,7 @@
 ### YouTube
 - https://www.youtube.com/watch?v=gi7t6Pl9rxE Workshop: Practical Go  (3 hours 50 minutes long)
 - https://www.youtube.com/watch?v=iYrMAVSOkkA Building a Config Service in Go (YAML, Go, Microservice)
+- https://www.youtube.com/watch?v=rWBSMsLG8po How I write HTTP Web Services after Eight Years
 
 
 ## Notes
