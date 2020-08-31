@@ -20,6 +20,10 @@
 ### YAML
 - https://pkg.go.dev/gopkg.in/yaml.v2?tab=doc
 
+### YouTube
+- https://www.youtube.com/watch?v=gi7t6Pl9rxE Workshop: Practical Go  (3 hours 50 minutes long)
+- https://www.youtube.com/watch?v=iYrMAVSOkkA Building a Config Service in Go (YAML, Go, Microservice)
+
 
 ## Notes
 
@@ -29,3 +33,5 @@ A Writer is an interface for all types that have a Write method
 A Reader is an interface for all types that have a Read method
 
 A interface is a type. A value can have more than one type.
+
+ioutil.Open opens the actual file and returns a slice of bytes, os.Read returns an address.
