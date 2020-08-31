@@ -7,6 +7,7 @@
 - JSON (Marshal)
 - Database (Select Statements)
 - Functions (Yes Functions are also types)
+- Yaml
 
 ## Up Next:
 - gRPC / Proto Buffers
@@ -15,6 +16,9 @@
 ### DB
 - http://go-database-sql.org/
 - https://bobby-tables.com/go
+
+### YAML
+- https://pkg.go.dev/gopkg.in/yaml.v2?tab=doc
 
 
 ## Notes

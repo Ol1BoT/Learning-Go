@@ -1,0 +1,12 @@
+base:
+  url: "www.google.com"
+  port: 1234
+  user: "OllieMignot"
+
+addition:
+  firstname: "Ollie"
+  lastname: "Mignot"
+  likes: 
+    - "Coding"
+    - "Golang"
+    - Java
