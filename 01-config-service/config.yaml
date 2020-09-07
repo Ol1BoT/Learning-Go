@@ -1,0 +1,10 @@
+base:
+  url: github.com
+  username: ol1bot
+
+addition:
+  likes:
+    - Tennis
+    - Football
+    - SQL
+    - Coding

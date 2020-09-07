@@ -35,4 +35,4 @@ A Reader is an interface for all types that have a Read method
 
 A interface is a type. A value can have more than one type.
 
-ioutil.Open opens the actual file and returns a slice of bytes, os.Read returns an address.
+ioutil.ReadFile opens the actual file and returns a slice of bytes, os.Read returns an address.
