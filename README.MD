@@ -41,4 +41,4 @@ ioutil.ReadFile opens the actual file and returns a slice of bytes, os.Read retu
 Go playground: https://play.golang.org/p/plLPShQw2tp
 
 ### Slice/Arrays
-Funky behavior with append, it boils down to performance see link for more information https://play.golang.org/p/V8LOzfBOPpB 
+Funky behavior with append, it boils down to performance. see link for more information https://play.golang.org/p/V8LOzfBOPpB. This stack overflow answer gives a more detailed response: https://stackoverflow.com/a/35921105
